@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  background-color: blue;
+  font-family: "Futura"; }
+
+.body-text {
+  margin: 30px;
+  padding: 20px;
+  color: white; }
+  .body-text p {
+    font-size: 34px; }
+    .body-text p:hover {
+      background-color: salmon; }
+
+/*# sourceMappingURL=style.css.map */
